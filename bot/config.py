@@ -2,12 +2,12 @@ class config:
     BOT_TOKEN = "5020733759:AAHnwhUQxo81gIEV9j7iXs48Wh2CHhu3IyY"
     APP_ID = "12090321"
     API_HASH = "3335905971df6598a13c2fda331693f0"
-    DATABASE_URL = ""
+    DATABASE_URL = "https://data.heroku.com/datastores/a2b284f1-97c8-4502-ad50-5789f464d3c4"
     SUDO_USERS = "1720240664" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "935370227303-g997vhtj20ksq3d60ujlu3o1uente6b5.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
